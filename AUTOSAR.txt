@@ -4,14 +4,26 @@ AUTOSAR (AUTomotive Open System ARchitecture) is a worldwide development partner
 
 Software architecture
 AUTOSAR uses a three-layered architecture:
-�	Basic Software: standardized software modules (mostly) without any functional job itself that offers services necessary to run the functional part of the upper software layer.
+�	Basic Software: standardized software modules (mostly) without any functional job itself that offers services necessary to run the functional part of the upper software layer.
 
-�	Runtime environment(RTE): Middleware which abstracts from the network topology for the inter- and intra-ECU information exchange between the application software components and between the Basic Software and the applications.
- 
-�	Application Layer: application software components that interact with the runtime environment. 
+�	Runtime environment(RTE): Middleware which abstracts from the network topology for the inter- and intra-ECU information exchange between the application software components and between the Basic Software and the applications.
+
+�	Application Layer: application software components that interact with the runtime environment.
 
 The AUTOSAR development partnership was formed in July 2003 by BMW, Bosch, Continental, DaimlerChrysler, Siemens VD
  and Volkswagen to develop and establish an open industry standard for automotive E/E architecture. In November 2003,
- Ford Motor Company joined as a Core Partner, and in December Peugeot Citro�n Automobiles S.A. and Toyota Motor 
-Corporation joined. The following November General Motors also became a Core Partner.[3] After Siemens VDO was 
+ Ford Motor Company joined as a Core Partner, and in December Peugeot Citro�n Automobiles S.A. and Toyota Motor
+Corporation joined. The following November General Motors also became a Core Partner.[3] After Siemens VDO was
 acquired by Continental in February 2008, it ceased being a self-contained Core Partner of AUTOSAR
+
+AUTOSAR proporciona un conjunto de especificaciones que describe módulos de software básicos,
+define las interfaces para las aplicaciones y construye una metodología de desarrollo
+común basada en el formato de intercambio estandarizado. Los módulos de software básico puestos
+a disposición por la arquitectura de software en capas de AUTOSAR se pueden usar en vehículos
+de diferentes fabricantes y componentes electrónicos de diferentes proveedores, reduciendo así los gastos
+de investigación y desarrollo y dominando la creciente complejidad de las arquitecturas electrónicas y
+de software para la automoción. Basado en este principio rector, AUTOSAR se ha diseñado para allanar
+el camino a sistemas electrónicos innovadores que mejoren aún más el rendimiento, la seguridad y
+la protección del medio ambiente y para facilitar el intercambio y la actualización de software
+y hardware durante la vida útil del vehículo. Aspira a estar preparado para las nuevas tecnologías
+y a mejorar la relación coste-eficiencia sin hacer ningún compromiso con respecto a la calidad.
