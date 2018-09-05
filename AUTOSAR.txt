@@ -10,3 +10,8 @@ AUTOSAR uses a three-layered architecture:
  
 •	Application Layer: application software components that interact with the runtime environment. 
 
+The AUTOSAR development partnership was formed in July 2003 by BMW, Bosch, Continental, DaimlerChrysler, Siemens VD
+ and Volkswagen to develop and establish an open industry standard for automotive E/E architecture. In November 2003,
+ Ford Motor Company joined as a Core Partner, and in December Peugeot Citroën Automobiles S.A. and Toyota Motor 
+Corporation joined. The following November General Motors also became a Core Partner.[3] After Siemens VDO was 
+acquired by Continental in February 2008, it ceased being a self-contained Core Partner of AUTOSAR
